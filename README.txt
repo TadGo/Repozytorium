@@ -1,4 +1,4 @@
-Polecenia Git
+Polecenia Git na 2 Galezi
 
 git init - inicjalizacja folderu (repozytorium). W folderze ukryty plik gitowy
 git status - status obecnych procesow, zmian
@@ -10,6 +10,11 @@ git clone - pobieranie repozytorium do nowego katalogu
 git branch <nazwa galezi> - tworzę nową gałąź
 git checkout <nazwa galezi> - przechodze na gałąź
 git merge <nazwa pliku> - laczenie wersji z galezi
+
+Zupelnie niepotrzebna linijka
+i ta tez
+
+no ale zobaczymy co sie stanie
 
 
 
